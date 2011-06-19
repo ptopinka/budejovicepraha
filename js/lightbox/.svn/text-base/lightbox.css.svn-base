@@ -1,0 +1,23 @@
+/* lightbox styles */
+.yui-skin-sam .tcc_showImgPanel .bd{ background-color: #fff; cursor: pointer}
+/* control panel styles */
+.yui-skin-sam .tcc_slideShowCtrl { width: 200px }
+.yui-skin-sam .tcc_slideShowCtrl .bd {text-align: center; padding: 0px; position:relative; height: 34px}
+.yui-skin-sam .tcc_slideShowCtrl .bd .tcc_slideShowCtrlPrev {width:30px; height:30px; cursor: pointer; background-image:url('backward.png'); position: absolute; left:60px; top:2px;}
+.yui-skin-sam .tcc_slideShowCtrl .bd .tcc_slideShowCtrlNext {width:30px; height:30px; cursor: pointer; background-image:url('forward.png'); position: absolute; left: 90px; top:2px;}
+.yui-skin-sam .tcc_slideShowCtrl .bd .tcc_slideShowCtrlClose {width:30px; height:30px; cursor: pointer; background-image:url('close.png'); position: absolute; left:0; top:2px;}
+.yui-skin-sam .tcc_slideShowCtrl .bd .tcc_slideShowCtrlResize {width:30px; height:30px; cursor: pointer; background-image:url('resize.png'); position: absolute; left:30px; top:2px;}
+.yui-skin-sam .tcc_slideShowCtrl .bd .tcc_slideShowCtrlHelp {width:30px; height:30px; cursor: pointer; background-image:url('help.png'); position: absolute; left:150px; top:2px;}
+.yui-skin-sam .tcc_slideShowCtrl .bd .tcc_slideShowCtrlInfo {width:30px; height:30px; cursor: pointer; background-image:url('info.png'); position: absolute; left:120px; top:2px;}
+.yui-skin-sam .tcc_slideShowCtrl .bd .tcc_slideShowCtrlDrag {width:15px; height:34px; cursor: move; background-image:url('drag.png'); position: absolute; right:0; top:0;}
+/* tooltip styles */
+.yui-skin-sam .tcc_imageTooltip .bd { background-color: #e4e4e4; border: 5px solid #666; font-size: 8pt; font-family:Verdana, Arial, Helvetica, sans-serif}
+.yui-skin-sam .tcc_imageTooltip .bd .tcc_imageTooltipTitle { font-size:12pt; font-weight:bold; margin-bottom: 5px}
+.yui-skin-sam .tcc_imageTooltip .bd .tcc_imageTooltipText {  }
+/* help panel styles */
+.yui-skin-sam .tcc_imageHelPanel .bd { background-color: #e4e4e4; border: 5px solid #666; font-size: 8pt; font-family:Verdana, Arial, Helvetica, sans-serif}
+.yui-skin-sam .tcc_imageHelPanel .bd .tcc_helpPanelTitle { font-size: 12pt; font-weight:bold}
+/* loader panel styles */
+.yui-skin-sam .tcc_lightboxLoader .hd{height: 20px; line-height: 1; padding: 5px 0 0 5px;}
+.yui-skin-sam .tcc_lightboxLoader .tcc_lightboxLoader_bg{background-image: url('progressBar.gif'); width: 220px; height: 21px;}
+.yui-skin-sam .tcc_lightboxLoader a{color: #666;font-size: 9pt;text-decoration: none;}
