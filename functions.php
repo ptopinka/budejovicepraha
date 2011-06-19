@@ -3,7 +3,7 @@
 function printHeader() {
 	print <<<END
   		 <div id="header">
-	    	<a href="index.php" alt="Závod České Budějovice - Praha" title="Závod České Budějovice - Praha"><img src="img/web_zahlavi.png"></a>
+	    	<a href="index.php" alt="Závod České Budějovice - Praha" title="Závod České Budějovice - Praha"><img src="img/web_zahlavi1.png"></a>
 		  </div>
 END;
 }
